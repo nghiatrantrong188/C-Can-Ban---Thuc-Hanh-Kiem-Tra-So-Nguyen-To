@@ -1,0 +1,15 @@
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\bin\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.exe
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\bin\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.deps.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\bin\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.runtimeconfig.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\bin\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\bin\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.csproj.AssemblyReference.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.AssemblyInfoInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.AssemblyInfo.cs
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\refint\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.genruntimeconfig.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To\obj\Debug\net7.0\ref\C-Can-Ban---Thuc-Hanh-Kiem-Tra-So-Nguyen-To.dll
